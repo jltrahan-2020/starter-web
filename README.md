@@ -11,3 +11,6 @@ More damned changes
 
 ## Deployment
 More changes galore...
+
+## Copyright
+Copyright stuff
