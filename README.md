@@ -7,5 +7,7 @@ This is a simple test to work with GIT
 ## Purpose
 
 Sample website with plenty of files for demos
+More damned changes
 
 ## Deployment
+More changes galore...
