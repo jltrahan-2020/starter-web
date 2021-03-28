@@ -12,5 +12,7 @@ More damned changes
 ## Deployment
 More changes galore...
 
+Adding text to test automatic merge...
+
 ## Copyright
 Copyright stuff
